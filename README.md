@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Igor147
 - 👀 I’m interested in web development and meet nice people
-- 🌱 I’m currently learning React with TS and sometimes Java WEB
-- 💞️ I’m looking to collaborate on funny projects, just let me know and go on
+- 🌱 I’m working with Java (Spring) and Vue JS /React(sometimes)
+- 💞️ I’m looking to collaborate on funny and solid projects, just let me know and go on
 - 📫 How to reach me search for me on linkedin e let's talk
 
 <!---
